@@ -1,1 +1,1 @@
-# hello-world
+# Repositório destinado a primeira atividade
