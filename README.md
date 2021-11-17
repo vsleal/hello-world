@@ -1,2 +1,2 @@
 # Hello World
-Repositório destinado a primeira atividade
+Repositório destinado a atividade: hello world e utilização do git.
